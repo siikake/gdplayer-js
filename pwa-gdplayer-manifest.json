@@ -1,0 +1,61 @@
+{
+    "name": "GDPlayer",
+    "short_name": "Gdplayer",
+    "scope": "https://www.gdplayer.web.id/",
+    "start_url": "https://www.gdplayer.web.id/",
+    "display": "minimal-ui",
+    "background_color": "#fff",
+    "theme_color": "#ff0000",
+    "description": "Nonton Anime dan TV live streaming semua channel lokal Indonesia dan mancanegara gratis hanya di GDPlayer.",
+"orientation": "portrait",
+"categories": ["anime", "entertainment", "TV lokal"]
+
+    "icons": [{
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic_Y9sVfCSyYrbC8tGM0_pIvExFj5343kGWSjVo35qW5qLgzHwejo6RnObgyGrNjOXMybl5Mvke1x2bbRihdqnsVrf3f2TkqZTzjKyEmzwXW-XlhheytMqwk4ziODtRmEYogE7rzplYjjqlbT0arDB1HKjEEozsTT7VLbFqLeXEexEXkpH_BjerpkijFU/s1600/1000141227.webp",
+      "sizes": "48x48",
+      "type": "image/png"
+    }, {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic_Y9sVfCSyYrbC8tGM0_pIvExFj5343kGWSjVo35qW5qLgzHwejo6RnObgyGrNjOXMybl5Mvke1x2bbRihdqnsVrf3f2TkqZTzjKyEmzwXW-XlhheytMqwk4ziODtRmEYogE7rzplYjjqlbT0arDB1HKjEEozsTT7VLbFqLeXEexEXkpH_BjerpkijFU/s1600/1000141227.webp",
+      "sizes": "72x72",
+      "type": "image/png"
+    }, {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic_Y9sVfCSyYrbC8tGM0_pIvExFj5343kGWSjVo35qW5qLgzHwejo6RnObgyGrNjOXMybl5Mvke1x2bbRihdqnsVrf3f2TkqZTzjKyEmzwXW-XlhheytMqwk4ziODtRmEYogE7rzplYjjqlbT0arDB1HKjEEozsTT7VLbFqLeXEexEXkpH_BjerpkijFU/s1600/1000141227.webp",
+      "sizes": "96x96",
+      "type": "image/png"
+    }, {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic_Y9sVfCSyYrbC8tGM0_pIvExFj5343kGWSjVo35qW5qLgzHwejo6RnObgyGrNjOXMybl5Mvke1x2bbRihdqnsVrf3f2TkqZTzjKyEmzwXW-XlhheytMqwk4ziODtRmEYogE7rzplYjjqlbT0arDB1HKjEEozsTT7VLbFqLeXEexEXkpH_BjerpkijFU/s1600/1000141227.webp",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic_Y9sVfCSyYrbC8tGM0_pIvExFj5343kGWSjVo35qW5qLgzHwejo6RnObgyGrNjOXMybl5Mvke1x2bbRihdqnsVrf3f2TkqZTzjKyEmzwXW-XlhheytMqwk4ziODtRmEYogE7rzplYjjqlbT0arDB1HKjEEozsTT7VLbFqLeXEexEXkpH_BjerpkijFU/s1600/1000141227.webp",
+      "sizes": "168x168",
+      "type": "image/png"
+    }, {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic_Y9sVfCSyYrbC8tGM0_pIvExFj5343kGWSjVo35qW5qLgzHwejo6RnObgyGrNjOXMybl5Mvke1x2bbRihdqnsVrf3f2TkqZTzjKyEmzwXW-XlhheytMqwk4ziODtRmEYogE7rzplYjjqlbT0arDB1HKjEEozsTT7VLbFqLeXEexEXkpH_BjerpkijFU/s1600/1000141227.webp",
+      "sizes": "192x192",
+      "type": "image/png"
+    }, {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic_Y9sVfCSyYrbC8tGM0_pIvExFj5343kGWSjVo35qW5qLgzHwejo6RnObgyGrNjOXMybl5Mvke1x2bbRihdqnsVrf3f2TkqZTzjKyEmzwXW-XlhheytMqwk4ziODtRmEYogE7rzplYjjqlbT0arDB1HKjEEozsTT7VLbFqLeXEexEXkpH_BjerpkijFU/s1600/1000141227.webp",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+    "screenshots": [
+    {
+        "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjovbXWAtBrR9DtzMoa0XpNq1S1T_ysEXIYeY-_U587m-UbVewL6xTaD-EP73iJY1Iqq6Bi4y11rD9LdxYs9P6sEyuhFrl19z9KN_ZK6Kxgys9GVp7_QOUscQsInhmZWqpAVV0QaOg3cBgvhJk0t9o__zdh9F_n9hZbD9gh4DmA-BV0kJ7kOW9aES2DqsE/s1600/1000141229.webp",
+        "type": "image/jpg",
+        "sizes": "547x973",
+        "form_factor": "narrow"
+        },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic_Y9sVfCSyYrbC8tGM0_pIvExFj5343kGWSjVo35qW5qLgzHwejo6RnObgyGrNjOXMybl5Mvke1x2bbRihdqnsVrf3f2TkqZTzjKyEmzwXW-XlhheytMqwk4ziODtRmEYogE7rzplYjjqlbT0arDB1HKjEEozsTT7VLbFqLeXEexEXkpH_BjerpkijFU/s1600/1000141227.webp",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic_Y9sVfCSyYrbC8tGM0_pIvExFj5343kGWSjVo35qW5qLgzHwejo6RnObgyGrNjOXMybl5Mvke1x2bbRihdqnsVrf3f2TkqZTzjKyEmzwXW-XlhheytMqwk4ziODtRmEYogE7rzplYjjqlbT0arDB1HKjEEozsTT7VLbFqLeXEexEXkpH_BjerpkijFU/s1600/1000141227.webp,
+      "sizes": "640x360",
+      "type": "image/png"
+    }
+  ]
+  }
